@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
 #+PROPERTY: FILE SB04n0440-002甲乙集-卷第二.
+
+# SB1_0784-046.png
+# page missing
 <pb:KR4c0108_SBCK_002-1a>¶
+# SB1_0784-047.png
 輕才子好謁尤常醉少年萬里故郷雲縹緲一¶
 春生計淚瀾汍多情柱史應相問與話歸心正¶
 浩然¶
